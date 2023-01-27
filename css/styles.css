@@ -1,12 +1,19 @@
 body {
-    background-color: #A0B3D2;
+    background-color: #00ADB5;
+    font-family: "Gill Sans", sans-serif;
     }
 hr {
     border-style: dotted none none;
-    border-color: grey;
+    border-color: #EEEEEE;
     border-width: 5;
     width: 15%;
     }
 h1, h3 {
-    color: #F0F3D2;
+    color: #393E46;
+}
+p, a {
+    color: #222831;
+}
+img {
+    width: 150px;
 }
